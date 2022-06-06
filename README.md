@@ -1,4 +1,5 @@
 # Flay GNU database
+They say "There's more than one way to skin a cat" so there is surely many ways to take care of GNU.
 ## Synopsis
 This idea is a mysql database of patches used in the FreeBSD ports system to ease further porting.
 
